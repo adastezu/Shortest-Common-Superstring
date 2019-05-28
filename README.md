@@ -3,4 +3,4 @@ We implement a greedy procedure and design a boosting subroutine for the greedy 
 ## Running the code
 Run the main.py file to run the greedy procedure and the boosting procedure in the greedy algorithm.
 ## Notes
-The programs only run in python 2.X 
+The programs only run in python 2.X and might throw errors in other versions.
