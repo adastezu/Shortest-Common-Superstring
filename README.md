@@ -6,7 +6,7 @@ Given a finite set of strings S, output the shortest string w such that for all 
 
 The problem is NP-Hard. In this project we have implemented Ukkonnen's greedy algorithm, designed and implemented an exact (exponential time) algorithm and used that to give a parameterized boosting procedure which can be run as subroutine of the greedy procedure to improve the quality of the solution outputted. The parameters of the boosting procedure determine the time and space taken by the greedy algorithm and in the limiting case, the boost becomes the exponential algorithm.
 
-We have run the code on the Human Gut Microbial dna dataset to experiment and evaluate performance.
+We have run the code on the Human Gut Microbial dna [dataset](https://drive.google.com/open?id=1Vq79BfM-v343L7TAl82p-US9S-Ej7Yhn) to experiment and evaluate performance.
 
 ## Running the code
 Run the main.py file to run the greedy procedure and the boosting procedure in the greedy algorithm. 
