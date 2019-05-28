@@ -12,3 +12,5 @@ We have run the code on the Human Gut Microbial dna [dataset](https://drive.goog
 Run the main.py file to run the greedy procedure and the boosting procedure in the greedy algorithm. 
 ## Notes
 The programs only run in python 2.X and might throw errors in other versions. The program requires a data file "MH0004.seq.fa". Place the data file in the same directory as the program files while running the code.
+
+In the very near future, I will be uploading the report explaining the algorithms and graph reduction.
